@@ -39,7 +39,7 @@
       <div class="hero-container">
 	<div class="article">
 		<article>
-			<img src="AdaLovelace.png" style="width:200px;height:300px;">
+			<img src="AdaLovelace.png" style="width:200px;height:350px;">
 			<h2> Ada Lovelace </h2>
 			<p> Ada Lovelace is considered the first computer programmer. Even though she wrote about a computer, the Analytical Engine, that was never built, she realized that the computer could follow a series of simple instructions, a program, to perform a complex calculation.</p>
 		</article>
