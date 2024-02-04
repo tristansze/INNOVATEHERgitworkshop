@@ -27,6 +27,15 @@ nav a {
   padding: 0 1.5rem;
 }
 
+.contact-content a {
+  text-decoration: underline;
+  color: #000;
+}
+
+.contact-content a:hover {
+  color: #fff;
+}
+
 nav a:hover {
   color: #fff;
 }
